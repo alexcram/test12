@@ -7,7 +7,7 @@ Ext.define('App.store.Events', {
         storeId: 'Events',
         data: [{
             id: 1,
-            name: 'Led Zeppelin'
+            name: 'Slightly Stoopid'
         }, {
             id: 2,
             name: 'Boston'

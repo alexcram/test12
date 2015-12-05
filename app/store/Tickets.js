@@ -10,9 +10,9 @@ Ext.define('App.store.Tickets', {
             sellerName: 'Nate W.',
             lat: 32.830304,
             lon: -117.276425,
-            ticketPrice: '$45',
+            ticketPrice: '$70',
             ticketQuantity: '2',
-            sellerRating: '5/5',
+            sellerRating: '4.5/5',
             sellerNumber: '858-353-3819'
         }]
     }
